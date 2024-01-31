@@ -1,0 +1,294 @@
+HUMAN|HGNC=644|UniProtKB=P10275	AR	Androgen receptor;AR;ortholog	ANDROGEN RECEPTOR (PTHR48092:SF13)		Homo sapiens
+HUMAN|HGNC=16876|UniProtKB=Q9HBZ2	ARNT2	Aryl hydrocarbon receptor nuclear translocator 2;ARNT2;ortholog	ARYL HYDROCARBON RECEPTOR NUCLEAR TRANSLOCATOR 2 (PTHR23042:SF6)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=784|UniProtKB=P15336	ATF2	Cyclic AMP-dependent transcription factor ATF-2;ATF2;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-2 (PTHR19304:SF9)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=785|UniProtKB=P18847	ATF3	Cyclic AMP-dependent transcription factor ATF-3;ATF3;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-3 (PTHR23351:SF23)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=786|UniProtKB=P18848	ATF4	Cyclic AMP-dependent transcription factor ATF-4;ATF4;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-4 (PTHR13044:SF2)		Homo sapiens
+HUMAN|HGNC=791|UniProtKB=P18850	ATF6	Cyclic AMP-dependent transcription factor ATF-6 alpha;ATF6;ortholog	CYCLIC AMP-DEPENDENT TRANSCRIPTION FACTOR ATF-6 ALPHA (PTHR46164:SF1)		Homo sapiens
+HUMAN|HGNC=797|UniProtKB=Q92858	ATOH1	Protein atonal homolog 1;ATOH1;ortholog	PROTEIN ATONAL HOMOLOG 1 (PTHR19290:SF82)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=935|UniProtKB=O14867	BACH1	Transcription regulator protein BACH1;BACH1;ortholog	TRANSCRIPTION REGULATOR PROTEIN BACH1 (PTHR46105:SF1)		Homo sapiens
+HUMAN|HGNC=953|UniProtKB=Q9BZE3	BARHL1	BarH-like 1 homeobox protein;BARHL1;ortholog	BARH-LIKE 1 HOMEOBOX PROTEIN (PTHR24330:SF8)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=954|UniProtKB=Q9NY43	BARHL2	BarH-like 2 homeobox protein;BARHL2;ortholog	BARH-LIKE 2 HOMEOBOX PROTEIN (PTHR24330:SF4)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=955|UniProtKB=Q9HBU1	BARX1	Homeobox protein BarH-like 1;BARX1;ortholog	HOMEOBOX PROTEIN BARH-LIKE 1 (PTHR24330:SF12)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=956|UniProtKB=Q9UMQ3	BARX2	Homeobox protein BarH-like 2;BARX2;ortholog	HOMEOBOX PROTEIN BARH-LIKE 2 (PTHR24330:SF7)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=958|UniProtKB=Q16520	BATF	Basic leucine zipper transcriptional factor ATF-like;BATF;ortholog	BASIC LEUCINE ZIPPER TRANSCRIPTIONAL FACTOR ATF-LIKE (PTHR23351:SF14)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=22265|UniProtKB=Q7RTS1	BHLHA15	Class A basic helix-loop-helix protein 15;BHLHA15;ortholog	CLASS A BASIC HELIX-LOOP-HELIX PROTEIN 15 (PTHR19290:SF97)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=1805|UniProtKB=P47902	CDX1	Homeobox protein CDX-1;CDX1;ortholog	HOMEOBOX PROTEIN CDX-1 (PTHR24332:SF16)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=1808|UniProtKB=O14627	CDX4	Homeobox protein CDX-4;CDX4;ortholog	HOMEOBOX PROTEIN CDX-4 (PTHR24332:SF15)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=1833|UniProtKB=P49715	CEBPA	CCAAT/enhancer-binding protein alpha;CEBPA;ortholog	CCAAT/ENHANCER-BINDING PROTEIN ALPHA (PTHR23334:SF5)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=1834|UniProtKB=P17676	CEBPB	CCAAT/enhancer-binding protein beta;CEBPB;ortholog	CCAAT/ENHANCER-BINDING PROTEIN BETA (PTHR23334:SF21)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=1835|UniProtKB=P49716	CEBPD	CCAAT/enhancer-binding protein delta;CEBPD;ortholog	CCAAT/ENHANCER-BINDING PROTEIN DELTA (PTHR23334:SF3)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=1836|UniProtKB=Q15744	CEBPE	CCAAT/enhancer-binding protein epsilon;CEBPE;ortholog	CCAAT/ENHANCER-BINDING PROTEIN EPSILON (PTHR23334:SF27)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=1837|UniProtKB=P53567	CEBPG	CCAAT/enhancer-binding protein gamma;CEBPG;ortholog	CCAAT/ENHANCER-BINDING PROTEIN GAMMA (PTHR23334:SF57)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=2082|UniProtKB=O15516	CLOCK	Circadian locomoter output cycles protein kaput;CLOCK;ortholog	CIRCADIAN LOCOMOTER OUTPUT CYCLES PROTEIN KAPUT (PTHR46055:SF2)		Homo sapiens
+HUMAN|HGNC=2345|UniProtKB=P16220	CREB1	Cyclic AMP-responsive element-binding protein 1;CREB1;ortholog	CYCLIC AMP-RESPONSIVE ELEMENT-BINDING PROTEIN 1 (PTHR45879:SF1)		Homo sapiens
+HUMAN|HGNC=2347|UniProtKB=O43889	CREB3	Cyclic AMP-responsive element-binding protein 3;CREB3;ortholog	CYCLIC AMP-RESPONSIVE ELEMENT-BINDING PROTEIN 3 (PTHR45996:SF4)		Homo sapiens
+HUMAN|HGNC=18856|UniProtKB=Q96BA8	CREB3L1	Cyclic AMP-responsive element-binding protein 3-like protein 1;CREB3L1;ortholog	CYCLIC AMP-RESPONSIVE ELEMENT-BINDING PROTEIN 3-LIKE PROTEIN 1 (PTHR46004:SF1)		Homo sapiens
+HUMAN|HGNC=18854|UniProtKB=Q8TEY5	CREB3L4	Cyclic AMP-responsive element-binding protein 3-like protein 4;CREB3L4;ortholog	CYCLIC AMP-RESPONSIVE ELEMENT-BINDING PROTEIN 3-LIKE PROTEIN 4 (PTHR45996:SF2)		Homo sapiens
+HUMAN|HGNC=16234|UniProtKB=Q8NI51	CTCFL	Transcriptional repressor CTCFL;CTCFL;ortholog	TRANSCRIPTIONAL REPRESSOR CTCFL (PTHR24406:SF8)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=2697|UniProtKB=Q10586	DBP	D site-binding protein;DBP;ortholog	D SITE-BINDING PROTEIN (PTHR11988:SF7)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=2918|UniProtKB=P56178	DLX5	Homeobox protein DLX-5;DLX5;ortholog	HOMEOBOX PROTEIN DLX-5 (PTHR24327:SF31)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=50800|UniProtKB=Q9UBX2	DUX4	Double homeobox protein 4;DUX4;ortholog	DOUBLE HOMEOBOX PROTEIN 1-RELATED (PTHR46123:SF3)		Homo sapiens
+HUMAN|HGNC=3113|UniProtKB=Q01094	E2F1	Transcription factor E2F1;E2F1;ortholog	TRANSCRIPTION FACTOR E2F1 (PTHR12081:SF43)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=3114|UniProtKB=Q14209	E2F2	Transcription factor E2F2;E2F2;ortholog	TRANSCRIPTION FACTOR E2F2 (PTHR12081:SF50)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=3115|UniProtKB=O00716	E2F3	Transcription factor E2F3;E2F3;ortholog	TRANSCRIPTION FACTOR E2F3 (PTHR12081:SF44)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=3118|UniProtKB=Q16254	E2F4	Transcription factor E2F4;E2F4;ortholog	TRANSCRIPTION FACTOR E2F4 (PTHR12081:SF42)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=3126|UniProtKB=Q9UH73	EBF1	Transcription factor COE1;EBF1;ortholog	TRANSCRIPTION FACTOR COE1 (PTHR10747:SF26)		Homo sapiens
+HUMAN|HGNC=19087|UniProtKB=Q9H4W6	EBF3	Transcription factor COE3;EBF3;ortholog	TRANSCRIPTION FACTOR COE3 (PTHR10747:SF4)		Homo sapiens
+HUMAN|HGNC=3238|UniProtKB=P18146	EGR1	Early growth response protein 1;EGR1;ortholog	EARLY GROWTH RESPONSE PROTEIN 1 (PTHR23235:SF42)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3239|UniProtKB=P11161	EGR2	E3 SUMO-protein ligase EGR2;EGR2;ortholog	E3 SUMO-PROTEIN LIGASE EGR2 (PTHR23235:SF54)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3240|UniProtKB=Q06889	EGR3	Early growth response protein 3;EGR3;ortholog	EARLY GROWTH RESPONSE PROTEIN 3 (PTHR23235:SF78)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3241|UniProtKB=Q05215	EGR4	Early growth response protein 4;EGR4;ortholog	EARLY GROWTH RESPONSE PROTEIN 4 (PTHR23235:SF58)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3246|UniProtKB=Q9NZC4	EHF	ETS homologous factor;EHF;ortholog	ETS HOMOLOGOUS FACTOR (PTHR11849:SF171)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3316|UniProtKB=P32519	ELF1	ETS-related transcription factor Elf-1;ELF1;ortholog	ETS-RELATED TRANSCRIPTION FACTOR ELF-1 (PTHR11849:SF156)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3318|UniProtKB=P78545	ELF3	ETS-related transcription factor Elf-3;ELF3;ortholog	ETS-RELATED TRANSCRIPTION FACTOR ELF-3 (PTHR11849:SF13)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3319|UniProtKB=Q99607	ELF4	ETS-related transcription factor Elf-4;ELF4;ortholog	ETS-RELATED TRANSCRIPTION FACTOR ELF-4 (PTHR11849:SF170)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3320|UniProtKB=Q9UKW6	ELF5	ETS-related transcription factor Elf-5;ELF5;ortholog	ETS-RELATED TRANSCRIPTION FACTOR ELF-5 (PTHR11849:SF15)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3321|UniProtKB=P19419	ELK1	ETS domain-containing protein Elk-1;ELK1;ortholog	ETS DOMAIN-CONTAINING PROTEIN ELK-1 (PTHR11849:SF178)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3325|UniProtKB=P41970	ELK3	ETS domain-containing protein Elk-3;ELK3;ortholog	ETS DOMAIN-CONTAINING PROTEIN ELK-3 (PTHR11849:SF172)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3326|UniProtKB=P28324	ELK4	ETS domain-containing protein Elk-4;ELK4;ortholog	ETS DOMAIN-CONTAINING PROTEIN ELK-4 (PTHR11849:SF21)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3446|UniProtKB=P11308	ERG	Transcriptional regulator ERG;ERG;ortholog	TRANSCRIPTIONAL REGULATOR ERG (PTHR11849:SF216)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3467|UniProtKB=P03372	ESR1	Estrogen receptor;ESR1;ortholog	ESTROGEN RECEPTOR (PTHR48092:SF16)		Homo sapiens
+HUMAN|HGNC=3471|UniProtKB=P11474	ESRRA	Steroid hormone receptor ERR1;ESRRA;ortholog	STEROID HORMONE RECEPTOR ERR1 (PTHR48092:SF15)		Homo sapiens
+HUMAN|HGNC=3473|UniProtKB=O95718	ESRRB	Steroid hormone receptor ERR2;ESRRB;ortholog	STEROID HORMONE RECEPTOR ERR2 (PTHR48092:SF7)		Homo sapiens
+HUMAN|HGNC=3488|UniProtKB=P14921	ETS1	Protein C-ets-1;ETS1;ortholog	PROTEIN C-ETS-1 (PTHR11849:SF209)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3490|UniProtKB=P50549	ETV1	ETS translocation variant 1;ETV1;ortholog	ETS TRANSLOCATION VARIANT 1 (PTHR11849:SF196)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3491|UniProtKB=O00321	ETV2	ETS translocation variant 2;ETV2;ortholog	ETS TRANSLOCATION VARIANT 2 (PTHR11849:SF206)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3493|UniProtKB=P43268	ETV4	ETS translocation variant 4;ETV4;ortholog	ETS TRANSLOCATION VARIANT 4 (PTHR11849:SF181)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3494|UniProtKB=P41161	ETV5	ETS translocation variant 5;ETV5;ortholog	ETS TRANSLOCATION VARIANT 5 (PTHR11849:SF160)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3495|UniProtKB=P41212	ETV6	Transcription factor ETV6;ETV6;ortholog	TRANSCRIPTION FACTOR ETV6 (PTHR11849:SF19)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=24669|UniProtKB=Q6QHK4	FIGLA	Factor in the germline alpha;FIGLA;ortholog	FACTOR IN THE GERMLINE ALPHA (PTHR23349:SF57)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=3749|UniProtKB=Q01543	FLI1	Friend leukemia integration 1 transcription factor;FLI1;ortholog	FRIEND LEUKEMIA INTEGRATION 1 TRANSCRIPTION FACTOR (PTHR11849:SF161)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3796|UniProtKB=P01100	FOS	Proto-oncogene c-Fos;FOS;ortholog	PROTO-ONCOGENE C-FOS (PTHR23351:SF4)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=3797|UniProtKB=P53539	FOSB	Protein fosB;FOSB;ortholog	PROTEIN FOSB (PTHR23351:SF3)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=13718|UniProtKB=P15407	FOSL1	Fos-related antigen 1;FOSL1;ortholog	FOS-RELATED ANTIGEN 1 (PTHR23351:SF6)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=3798|UniProtKB=P15408	FOSL2	Fos-related antigen 2;FOSL2;ortholog	FOS-RELATED ANTIGEN 2 (PTHR23351:SF25)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=5021|UniProtKB=P55317	FOXA1	Hepatocyte nuclear factor 3-alpha;FOXA1;ortholog	HEPATOCYTE NUCLEAR FACTOR 3-ALPHA (PTHR11829:SF195)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3800|UniProtKB=Q12948	FOXC1	Forkhead box protein C1;FOXC1;ortholog	FORKHEAD BOX PROTEIN C1 (PTHR11829:SF68)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3801|UniProtKB=Q99958	FOXC2	Forkhead box protein C2;FOXC2;ortholog	FORKHEAD BOX PROTEIN C2 (PTHR11829:SF189)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3802|UniProtKB=Q16676	FOXD1	Forkhead box protein D1;FOXD1;ortholog	FORKHEAD BOX PROTEIN D1 (PTHR11829:SF348)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3803|UniProtKB=O60548	FOXD2	Forkhead box protein D2;FOXD2;ortholog	FORKHEAD BOX PROTEIN D2 (PTHR11829:SF361)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=3810|UniProtKB=Q12947	FOXF2	Forkhead box protein F2;FOXF2;ortholog	FORKHEAD BOX PROTEIN F2 (PTHR46262:SF3)		Homo sapiens
+HUMAN|HGNC=3814|UniProtKB=O75593	FOXH1	Forkhead box protein H1;FOXH1;ortholog	FORKHEAD BOX PROTEIN H1 (PTHR47316:SF1)		Homo sapiens
+HUMAN|HGNC=3815|UniProtKB=Q12951	FOXI1	Forkhead box protein I1;FOXI1;ortholog	FORKHEAD BOX PROTEIN I1 (PTHR11829:SF180)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6036|UniProtKB=Q01167	FOXK2	Forkhead box protein K2;FOXK2;ortholog	FORKHEAD BOX PROTEIN K2 (PTHR45881:SF3)		Homo sapiens
+HUMAN|HGNC=3821|UniProtKB=O43524	FOXO3	Forkhead box protein O3;FOXO3;ortholog	FORKHEAD BOX PROTEIN O3 (PTHR45767:SF4)		Homo sapiens
+HUMAN|HGNC=7139|UniProtKB=P98177	FOXO4	Forkhead box protein O4;FOXO4;ortholog	FORKHEAD BOX PROTEIN O4 (PTHR45767:SF3)		Homo sapiens
+HUMAN|HGNC=4071|UniProtKB=Q06546	GABPA	GA-binding protein alpha chain;GABPA;ortholog	GA-BINDING PROTEIN ALPHA CHAIN (PTHR11849:SF292)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=4170|UniProtKB=P15976	GATA1	Erythroid transcription factor;GATA1;ortholog	ERYTHROID TRANSCRIPTION FACTOR (PTHR10071:SF190)		Homo sapiens
+HUMAN|HGNC=4171|UniProtKB=P23769	GATA2	Endothelial transcription factor GATA-2;GATA2;ortholog	ENDOTHELIAL TRANSCRIPTION FACTOR GATA-2 (PTHR10071:SF149)		Homo sapiens
+HUMAN|HGNC=4172|UniProtKB=P23771	GATA3	Trans-acting T-cell-specific transcription factor GATA-3;GATA3;ortholog	TRANS-ACTING T-CELL-SPECIFIC TRANSCRIPTION FACTOR GATA-3 (PTHR10071:SF106)		Homo sapiens
+HUMAN|HGNC=4173|UniProtKB=P43694	GATA4	Transcription factor GATA-4;GATA4;ortholog	TRANSCRIPTION FACTOR GATA-4 (PTHR10071:SF154)		Homo sapiens
+HUMAN|HGNC=4185|UniProtKB=Q14549	GBX1	Homeobox protein GBX-1;GBX1;ortholog	HOMEOBOX PROTEIN GBX-1 (PTHR24334:SF2)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=4186|UniProtKB=P52951	GBX2	Homeobox protein GBX-2;GBX2;ortholog	HOMEOBOX PROTEIN GBX-2 (PTHR24334:SF3)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=4197|UniProtKB=Q9NP62	GCM1	Chorion-specific transcription factor GCMa;GCM1;ortholog	CHORION-SPECIFIC TRANSCRIPTION FACTOR GCMA (PTHR12414:SF6)		Homo sapiens
+HUMAN|HGNC=4198|UniProtKB=O75603	GCM2	Chorion-specific transcription factor GCMb;GCM2;ortholog	CHORION-SPECIFIC TRANSCRIPTION FACTOR GCMB (PTHR12414:SF7)		Homo sapiens
+HUMAN|HGNC=4318|UniProtKB=P10070	GLI2	Zinc finger protein GLI2;GLI2;ortholog	ZINC FINGER PROTEIN GLI2 (PTHR45718:SF6)		Homo sapiens
+HUMAN|HGNC=29525|UniProtKB=Q8NBF1	GLIS1	Zinc finger protein GLIS1;GLIS1;ortholog	ZINC FINGER PROTEIN GLIS1 (PTHR45718:SF3)		Homo sapiens
+HUMAN|HGNC=29450|UniProtKB=Q9BZE0	GLIS2	Zinc finger protein GLIS2;GLIS2;ortholog	ZINC FINGER PROTEIN GLIS2 (PTHR19818:SF84)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=4371|UniProtKB=Q9UKD1	GMEB2	Glucocorticoid modulatory element-binding protein 2;GMEB2;ortholog	GLUCOCORTICOID MODULATORY ELEMENT-BINDING PROTEIN 2 (PTHR10417:SF2)		Homo sapiens
+HUMAN|HGNC=17923|UniProtKB=Q9NZI5	GRHL1	Grainyhead-like protein 1 homolog;GRHL1;ortholog	GRAINYHEAD-LIKE PROTEIN 1 HOMOLOG (PTHR11037:SF16)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=2799|UniProtKB=Q6ISB3	GRHL2	Grainyhead-like protein 2 homolog;GRHL2;ortholog	GRAINYHEAD-LIKE PROTEIN 2 HOMOLOG (PTHR11037:SF17)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=20374|UniProtKB=Q9H4S2	GSX1	GS homeobox 1;GSX1;ortholog	GS HOMEOBOX 1 (PTHR24339:SF29)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=4808|UniProtKB=P61296	HAND2	Heart- and neural crest derivatives-expressed protein 2;HAND2;ortholog	HEART- AND NEURAL CREST DERIVATIVES-EXPRESSED PROTEIN 2 (PTHR23349:SF41)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=4910|UniProtKB=Q16665	HIF1A	Hypoxia-inducible factor 1-alpha;HIF1A;ortholog	HYPOXIA-INDUCIBLE FACTOR 1-ALPHA (PTHR23043:SF7)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=17850|UniProtKB=Q9BQA5	HINFP	Histone H4 transcription factor;HINFP;ortholog	HISTONE H4 TRANSCRIPTION FACTOR (PTHR24391:SF26)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=3374|UniProtKB=Q99814	HLF	Endothelial PAS domain-containing protein 1;EPAS1;ortholog	ENDOTHELIAL PAS DOMAIN-CONTAINING PROTEIN 1 (PTHR23043:SF8)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=4977|UniProtKB=Q16534	HLF	Hepatic leukemia factor;HLF;ortholog	HEPATIC LEUKEMIA FACTOR (PTHR11988:SF28)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=11621|UniProtKB=P20823	HNF1A	Hepatocyte nuclear factor 1-alpha;HNF1A;ortholog	HEPATOCYTE NUCLEAR FACTOR 1-ALPHA (PTHR11568:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=5024|UniProtKB=P41235	HNF4A	Hepatocyte nuclear factor 4-alpha;HNF4A;ortholog	HEPATOCYTE NUCLEAR FACTOR 4-ALPHA (PTHR24083:SF41)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=5026|UniProtKB=Q14541	HNF4G	Hepatocyte nuclear factor 4-gamma;HNF4G;ortholog	HEPATOCYTE NUCLEAR FACTOR 4-GAMMA (PTHR24083:SF42)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=5099|UniProtKB=P49639	HOXA1	Homeobox protein Hox-A1;HOXA1;ortholog	HOMEOBOX PROTEIN HOX-A1 (PTHR45946:SF3)		Homo sapiens
+HUMAN|HGNC=5100|UniProtKB=P31260	HOXA10	Homeobox protein Hox-A10;HOXA10;ortholog	HOMEOBOX PROTEIN HOX-A10 (PTHR45874:SF1)		Homo sapiens
+HUMAN|HGNC=5105|UniProtKB=Q00056	HOXA4	Homeobox protein Hox-A4;HOXA4;ortholog	HOMEOBOX PROTEIN HOX-A4 (PTHR45771:SF2)		Homo sapiens
+HUMAN|HGNC=5106|UniProtKB=P20719	HOXA5	Homeobox protein Hox-A5;HOXA5;ortholog	HOMEOBOX PROTEIN HOX-A5 (PTHR45659:SF10)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=5108|UniProtKB=P31268	HOXA7	Homeobox protein Hox-A7;HOXA7;ortholog	HOMEOBOX PROTEIN HOX-A7 (PTHR45659:SF12)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=5109|UniProtKB=P31269	HOXA9	Homeobox protein Hox-A9;HOXA9;ortholog	HOMEOBOX PROTEIN HOX-A9 (PTHR45970:SF3)		Homo sapiens
+HUMAN|HGNC=5113|UniProtKB=P14652	HOXB2	Homeobox protein Hox-B2;HOXB2;ortholog	HOMEOBOX PROTEIN HOX-B2 (PTHR45664:SF7)		Homo sapiens
+HUMAN|HGNC=5114|UniProtKB=P14651	HOXB3	Homeobox protein Hox-B3;HOXB3;ortholog	HOMEOBOX PROTEIN HOX-B3 (PTHR45664:SF11)		Homo sapiens
+HUMAN|HGNC=5115|UniProtKB=P17483	HOXB4	Homeobox protein Hox-B4;HOXB4;ortholog	HOMEOBOX PROTEIN HOX-B4 (PTHR45771:SF3)		Homo sapiens
+HUMAN|HGNC=5116|UniProtKB=P09067	HOXB5	Homeobox protein Hox-B5;HOXB5;ortholog	HOMEOBOX PROTEIN HOX-B5 (PTHR45659:SF2)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=5118|UniProtKB=P09629	HOXB7	Homeobox protein Hox-B7;HOXB7;ortholog	HOMEOBOX PROTEIN HOX-B7 (PTHR45659:SF11)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=5122|UniProtKB=Q9NYD6	HOXC10	Homeobox protein Hox-C10;HOXC10;ortholog	HOMEOBOX PROTEIN HOX-C10 (PTHR45874:SF2)		Homo sapiens
+HUMAN|HGNC=5123|UniProtKB=O43248	HOXC11	Homeobox protein Hox-C11;HOXC11;ortholog	HOMEOBOX PROTEIN HOX-C11 (PTHR46092:SF1)		Homo sapiens
+HUMAN|HGNC=5125|UniProtKB=P31276	HOXC13	Homeobox protein Hox-C13;HOXC13;ortholog	HOMEOBOX PROTEIN HOX-C13 (PTHR45804:SF5)		Homo sapiens
+HUMAN|HGNC=5126|UniProtKB=P09017	HOXC4	Homeobox protein Hox-C4;HOXC4;ortholog	HOMEOBOX PROTEIN HOX-C4 (PTHR45771:SF9)		Homo sapiens
+HUMAN|HGNC=5133|UniProtKB=P28358	HOXD10	Homeobox protein Hox-D10;HOXD10;ortholog	HOMEOBOX PROTEIN HOX-D10 (PTHR45874:SF5)		Homo sapiens
+HUMAN|HGNC=5136|UniProtKB=P35453	HOXD13	Homeobox protein Hox-D13;HOXD13;ortholog	HOMEOBOX PROTEIN HOX-D13 (PTHR45804:SF4)		Homo sapiens
+HUMAN|HGNC=5137|UniProtKB=P31249	HOXD3	Homeobox protein Hox-D3;HOXD3;ortholog	HOMEOBOX PROTEIN HOX-D3 (PTHR45664:SF5)		Homo sapiens
+HUMAN|HGNC=5138|UniProtKB=P09016	HOXD4	Homeobox protein Hox-D4;HOXD4;ortholog	HOMEOBOX PROTEIN HOX-D4 (PTHR45771:SF5)		Homo sapiens
+HUMAN|HGNC=5139|UniProtKB=P13378	HOXD8	Homeobox protein Hox-D8;HOXD8;ortholog	HOMEOBOX PROTEIN HOX-D8 (PTHR46166:SF1)		Homo sapiens
+HUMAN|HGNC=5225|UniProtKB=Q03933	HSF2	Heat shock factor protein 2;HSF2;ortholog	HEAT SHOCK FACTOR PROTEIN 2 (PTHR10015:SF185)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6116|UniProtKB=P10914	IRF1	Interferon regulatory factor 1;IRF1;ortholog	INTERFERON REGULATORY FACTOR 1 (PTHR11949:SF3)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6117|UniProtKB=P14316	IRF2	Interferon regulatory factor 2;IRF2;ortholog	INTERFERON REGULATORY FACTOR 2 (PTHR11949:SF22)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6118|UniProtKB=Q14653	IRF3	Interferon regulatory factor 3;IRF3;ortholog	INTERFERON REGULATORY FACTOR 3 (PTHR11949:SF1)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6119|UniProtKB=Q15306	IRF4	Interferon regulatory factor 4;IRF4;ortholog	INTERFERON REGULATORY FACTOR 4 (PTHR11949:SF6)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6120|UniProtKB=Q13568	IRF5	Interferon regulatory factor 5;IRF5;ortholog	INTERFERON REGULATORY FACTOR 5 (PTHR11949:SF10)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=6204|UniProtKB=P05412	JUN	Transcription factor AP-1;JUN;ortholog	TRANSCRIPTION FACTOR AP-1 (PTHR11462:SF8)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6205|UniProtKB=P17275	JUNB	Transcription factor jun-B;JUNB;ortholog	TRANSCRIPTION FACTOR JUN-B (PTHR11462:SF37)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6206|UniProtKB=P17535	JUND	Transcription factor jun-D;JUND;ortholog	TRANSCRIPTION FACTOR JUN-D (PTHR11462:SF7)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=11810|UniProtKB=Q13118	KLF10	Krueppel-like factor 10;KLF10;ortholog	KRUEPPEL-LIKE FACTOR 10 (PTHR23235:SF64)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=13672|UniProtKB=Q9Y2Y9	KLF13	Krueppel-like factor 13;KLF13;ortholog	KRUEPPEL-LIKE FACTOR 13 (PTHR23235:SF21)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=14536|UniProtKB=Q9UIH9	KLF15	Krueppel-like factor 15;KLF15;ortholog	KRUEPPEL-LIKE FACTOR 15 (PTHR23235:SF44)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=6348|UniProtKB=O43474	KLF4	Krueppel-like factor 4;KLF4;ortholog	KRUEPPEL-LIKE FACTOR 4 (PTHR23235:SF41)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=6349|UniProtKB=Q13887	KLF5	Krueppel-like factor 5;KLF5;ortholog	KRUEPPEL-LIKE FACTOR 5 (PTHR23235:SF82)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=2235|UniProtKB=Q99612	KLF6	Krueppel-like factor 6;KLF6;ortholog	KRUEPPEL-LIKE FACTOR 6 (PTHR23235:SF50)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=6551|UniProtKB=Q9UJU2	LEF1	Lymphoid enhancer-binding factor 1;LEF1;ortholog	LYMPHOID ENHANCER-BINDING FACTOR 1 (PTHR10373:SF11)		Homo sapiens
+HUMAN|HGNC=6594|UniProtKB=P50458	LHX2	LIM/homeobox protein Lhx2;LHX2;ortholog	LIM/HOMEOBOX PROTEIN LHX2 (PTHR24208:SF80)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=6653|UniProtKB=Q8TE12	LMX1A	LIM homeobox transcription factor 1-alpha;LMX1A;ortholog	LIM HOMEOBOX TRANSCRIPTION FACTOR 1-ALPHA (PTHR24208:SF88)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=6776|UniProtKB=O75444	MAF	Transcription factor Maf;MAF;ortholog	TRANSCRIPTION FACTOR MAF (PTHR10129:SF9)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=23145|UniProtKB=Q8NHW3	MAFA	Transcription factor MafA;MAFA;ortholog	TRANSCRIPTION FACTOR MAFA (PTHR10129:SF30)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6780|UniProtKB=Q9ULX9	MAFF	Transcription factor MafF;MAFF;ortholog	TRANSCRIPTION FACTOR MAFF (PTHR10129:SF25)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6781|UniProtKB=O15525	MAFG	Transcription factor MafG;MAFG;ortholog	TRANSCRIPTION FACTOR MAFG (PTHR10129:SF15)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=6993|UniProtKB=Q02078	MEF2A	Myocyte-specific enhancer factor 2A;MEF2A;ortholog	MYOCYTE-SPECIFIC ENHANCER FACTOR 2A (PTHR11945:SF637)	MADS box transcription factor(PC00250)	Homo sapiens
+HUMAN|HGNC=6995|UniProtKB=Q02080	MEF2B	Myocyte-specific enhancer factor 2B;MEF2B;ortholog	MYOCYTE-SPECIFIC ENHANCER FACTOR 2B (PTHR11945:SF383)	MADS box transcription factor(PC00250)	Homo sapiens
+HUMAN|HGNC=6996|UniProtKB=Q06413	MEF2C	Myocyte-specific enhancer factor 2C;MEF2C;ortholog	MYOCYTE-SPECIFIC ENHANCER FACTOR 2C (PTHR11945:SF25)	MADS box transcription factor(PC00250)	Homo sapiens
+HUMAN|HGNC=6997|UniProtKB=Q14814	MEF2D	Myocyte-specific enhancer factor 2D;MEF2D;ortholog	MYOCYTE-SPECIFIC ENHANCER FACTOR 2D (PTHR11945:SF23)	MADS box transcription factor(PC00250)	Homo sapiens
+HUMAN|HGNC=7000|UniProtKB=O00470	MEIS1	Homeobox protein Meis1;MEIS1;ortholog	HOMEOBOX PROTEIN MEIS1 (PTHR11850:SF126)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7001|UniProtKB=O14770	MEIS2	Homeobox protein Meis2;MEIS2;ortholog	HOMEOBOX PROTEIN MEIS2 (PTHR11850:SF47)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=29537|UniProtKB=Q99687	MEIS3	Homeobox protein Meis3;MEIS3;ortholog	HOMEOBOX PROTEIN MEIS3-RELATED (PTHR11850:SF190)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7013|UniProtKB=P50221	MEOX1	Homeobox protein MOX-1;MEOX1;ortholog	HOMEOBOX PROTEIN MOX-1 (PTHR24328:SF8)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7014|UniProtKB=P50222	MEOX2	Homeobox protein MOX-2;MEOX2;ortholog	HOMEOBOX PROTEIN MOX-2 (PTHR24328:SF1)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7105|UniProtKB=O75030	MITF	Microphthalmia-associated transcription factor;MITF;ortholog	MICROPHTHALMIA-ASSOCIATED TRANSCRIPTION FACTOR (PTHR45776:SF4)		Homo sapiens
+HUMAN|HGNC=13363|UniProtKB=Q9H2W2	MIXL1	Homeobox protein MIXL1;MIXL1;ortholog	HOMEOBOX PROTEIN MIXL1 (PTHR47656:SF1)		Homo sapiens
+HUMAN|HGNC=14907|UniProtKB=A6NI15	MSGN1	Mesogenin-1;MSGN1;ortholog	MESOGENIN-1 (PTHR20937:SF4)		Homo sapiens
+HUMAN|HGNC=7391|UniProtKB=P28360	MSX1	Homeobox protein MSX-1;MSX1;ortholog	HOMEOBOX PROTEIN MSX-1 (PTHR24338:SF8)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7428|UniProtKB=Q14872	MTF1	Metal regulatory transcription factor 1;MTF1;ortholog	METAL REGULATORY TRANSCRIPTION FACTOR 1 (PTHR19818:SF131)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=7545|UniProtKB=P10242	MYB	Transcriptional activator Myb;MYB;ortholog	TRANSCRIPTIONAL ACTIVATOR MYB (PTHR45614:SF5)		Homo sapiens
+HUMAN|HGNC=7547|UniProtKB=P10243	MYBL1	Myb-related protein A;MYBL1;ortholog	MYB-RELATED PROTEIN A (PTHR45614:SF9)		Homo sapiens
+HUMAN|HGNC=7548|UniProtKB=P10244	MYBL2	Myb-related protein B;MYBL2;ortholog	MYB-RELATED PROTEIN B (PTHR45614:SF30)		Homo sapiens
+HUMAN|HGNC=7553|UniProtKB=P01106	MYC	Myc proto-oncogene protein;MYC;ortholog	MYC PROTO-ONCOGENE PROTEIN (PTHR45851:SF1)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7559|UniProtKB=P04198	MYCN	N-myc proto-oncogene protein;MYCN;ortholog	N-MYC PROTO-ONCOGENE PROTEIN (PTHR45851:SF2)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7565|UniProtKB=P13349	MYF5	Myogenic factor 5;MYF5;ortholog	MYOGENIC FACTOR 5 (PTHR11534:SF3)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7566|UniProtKB=P23409	MYF6	Myogenic factor 6;MYF6;ortholog	MYOGENIC FACTOR 6 (PTHR11534:SF4)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7611|UniProtKB=P15172	MYOD1	Myoblast determination protein 1;MYOD1;ortholog	MYOBLAST DETERMINATION PROTEIN 1 (PTHR11534:SF2)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7612|UniProtKB=P15173	MYOG	Myogenin;MYOG;ortholog	MYOGENIN (PTHR11534:SF5)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=13108|UniProtKB=P28698	MZF1	Myeloid zinc finger 1;MZF1;ortholog	MYELOID ZINC FINGER 1 (PTHR24384:SF2)		Homo sapiens
+HUMAN|HGNC=7762|UniProtKB=Q13562	NEUROD1	Neurogenic differentiation factor 1;NEUROD1;ortholog	NEUROGENIC DIFFERENTIATION FACTOR 1 (PTHR19290:SF88)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7763|UniProtKB=Q15784	NEUROD2	Neurogenic differentiation factor 2;NEUROD2;ortholog	NEUROGENIC DIFFERENTIATION FACTOR 2 (PTHR19290:SF83)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7776|UniProtKB=Q13469	NFATC2	"Nuclear factor of activated T-cells, cytoplasmic 2;NFATC2;ortholog"	"NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 2 (PTHR12533:SF4)"	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=7777|UniProtKB=Q12968	NFATC3	"Nuclear factor of activated T-cells, cytoplasmic 3;NFATC3;ortholog"	"NUCLEAR FACTOR OF ACTIVATED T-CELLS, CYTOPLASMIC 3 (PTHR12533:SF6)"	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=7781|UniProtKB=Q14494	NFE2L1	Endoplasmic reticulum membrane sensor NFE2L1;NFE2L1;ortholog	ENDOPLASMIC RETICULUM MEMBRANE SENSOR NFE2L1 (PTHR24411:SF31)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=7782|UniProtKB=Q16236	NFE2L2	Nuclear factor erythroid 2-related factor 2;NFE2L2;ortholog	NUCLEAR FACTOR ERYTHROID 2-RELATED FACTOR 2 (PTHR24411:SF3)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=7784|UniProtKB=Q12857	NFIA	Nuclear factor 1 A-type;NFIA;ortholog	NUCLEAR FACTOR 1 A-TYPE (PTHR11492:SF6)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=7785|UniProtKB=O00712	NFIB	Nuclear factor 1 B-type;NFIB;ortholog	NUCLEAR FACTOR 1 B-TYPE (PTHR11492:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=7786|UniProtKB=P08651	NFIC	Nuclear factor 1 C-type;NFIC;ortholog	NUCLEAR FACTOR 1 C-TYPE (PTHR11492:SF2)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=7794|UniProtKB=P19838	NFKB1	Nuclear factor NF-kappa-B p105 subunit;NFKB1;ortholog	NUCLEAR FACTOR NF-KAPPA-B P105 SUBUNIT (PTHR24169:SF9)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=7795|UniProtKB=Q00653	NFKB2	Nuclear factor NF-kappa-B p100 subunit;NFKB2;ortholog	NUCLEAR FACTOR NF-KAPPA-B P100 SUBUNIT (PTHR24169:SF21)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=7804|UniProtKB=P23511	NFYA	Nuclear transcription factor Y subunit alpha;NFYA;ortholog	NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT ALPHA (PTHR12632:SF6)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=7805|UniProtKB=P25208	NFYB	Nuclear transcription factor Y subunit beta;NFYB;ortholog	NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT BETA (PTHR11064:SF120)		Homo sapiens
+HUMAN|HGNC=7806|UniProtKB=Q13952	NFYC	Nuclear transcription factor Y subunit gamma;NFYC;ortholog	NUCLEAR TRANSCRIPTION FACTOR Y SUBUNIT GAMMA (PTHR10252:SF91)	DNA binding protein(PC00009)	Homo sapiens
+HUMAN|HGNC=7817|UniProtKB=Q02575	NHLH1	Helix-loop-helix protein 1;NHLH1;ortholog	HELIX-LOOP-HELIX PROTEIN 1 (PTHR13864:SF20)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7818|UniProtKB=Q02577	NHLH2	Helix-loop-helix protein 2;NHLH2;ortholog	HELIX-LOOP-HELIX PROTEIN 2 (PTHR13864:SF19)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=7835|UniProtKB=O95096	NKX2-2	Homeobox protein Nkx-2.2;NKX2-2;ortholog	HOMEOBOX PROTEIN NKX-2.2 (PTHR24340:SF24)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=2488|UniProtKB=P52952	NKX2-5	Homeobox protein Nkx-2.5;NKX2-5;ortholog	HOMEOBOX PROTEIN NKX-2.5 (PTHR24340:SF28)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=16364|UniProtKB=O15522	NKX2-8	Homeobox protein Nkx-2.8;NKX2-8;ortholog	HOMEOBOX PROTEIN NKX-2.8 (PTHR24340:SF27)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=26328|UniProtKB=A6NJ46	NKX6-3	Homeobox protein Nkx-6.3;NKX6-3;ortholog	HOMEOBOX PROTEIN NKX-6.3 (PTHR24340:SF20)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=7965|UniProtKB=P55055	NR1H2	Oxysterols receptor LXR-beta;NR1H2;ortholog	OXYSTEROLS RECEPTOR LXR-BETA (PTHR24082:SF316)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7967|UniProtKB=Q96RI1	NR1H4	Bile acid receptor;NR1H4;ortholog	BILE ACID RECEPTOR (PTHR24082:SF155)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7968|UniProtKB=O75469	NR1I2	Nuclear receptor subfamily 1 group I member 2;NR1I2;ortholog	NUCLEAR RECEPTOR SUBFAMILY 1 GROUP I MEMBER 2 (PTHR24082:SF39)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7969|UniProtKB=Q14994	NR1I3	Nuclear receptor subfamily 1 group I member 3;NR1I3;ortholog	NUCLEAR RECEPTOR SUBFAMILY 1 GROUP I MEMBER 3 (PTHR24082:SF231)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7972|UniProtKB=P49116	NR2C2	Nuclear receptor subfamily 2 group C member 2;NR2C2;ortholog	NUCLEAR RECEPTOR SUBFAMILY 2 GROUP C MEMBER 2 (PTHR24083:SF48)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7978|UniProtKB=P04150	NR3C1	Glucocorticoid receptor;NR3C1;ortholog	GLUCOCORTICOID RECEPTOR (PTHR48092:SF5)		Homo sapiens
+HUMAN|HGNC=7980|UniProtKB=P22736	NR4A1	Nuclear receptor subfamily 4 group A member 1;NR4A1;ortholog	NUCLEAR RECEPTOR SUBFAMILY 4 GROUP A MEMBER 1 (PTHR24085:SF1)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7981|UniProtKB=P43354	NR4A2	Nuclear receptor subfamily 4 group A member 2;NR4A2;ortholog	NUCLEAR RECEPTOR SUBFAMILY 4 GROUP A MEMBER 2 (PTHR24085:SF0)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=7985|UniProtKB=Q15406	NR6A1	Nuclear receptor subfamily 6 group A member 1;NR6A1;ortholog	NUCLEAR RECEPTOR SUBFAMILY 6 GROUP A MEMBER 1 (PTHR48092:SF18)		Homo sapiens
+HUMAN|HGNC=7996|UniProtKB=Q16656	NRF1	Nuclear respiratory factor 1;NRF1;ortholog	NUCLEAR RESPIRATORY FACTOR 1 (PTHR20338:SF8)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=8002|UniProtKB=P54845	NRL	Neural retina-specific leucine zipper protein;NRL;ortholog	NEURAL RETINA-SPECIFIC LEUCINE ZIPPER PROTEIN (PTHR10129:SF24)	basic leucine zipper transcription factor(PC00056)	Homo sapiens
+HUMAN|HGNC=8138|UniProtKB=Q9UBC0	ONECUT1	Hepatocyte nuclear factor 6;ONECUT1;ortholog	HEPATOCYTE NUCLEAR FACTOR 6 (PTHR14057:SF9)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=8139|UniProtKB=O95948	ONECUT2	One cut domain family member 2;ONECUT2;ortholog	ONE CUT DOMAIN FAMILY MEMBER 2 (PTHR14057:SF10)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=13399|UniProtKB=O60422	ONECUT3	One cut domain family member 3;ONECUT3;ortholog	ONE CUT DOMAIN FAMILY MEMBER 3 (PTHR14057:SF34)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=15830|UniProtKB=Q8N2R0	OSR2	Protein odd-skipped-related 2;OSR2;ortholog	PROTEIN ODD-SKIPPED-RELATED 2 (PTHR14196:SF4)	zinc finger transcription factor(PC00244)	Homo sapiens
+HUMAN|HGNC=8521|UniProtKB=P32242	OTX1	Homeobox protein OTX1;OTX1;ortholog	HOMEOBOX PROTEIN OTX1 (PTHR45793:SF9)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=8522|UniProtKB=P32243	OTX2	Homeobox protein OTX2;OTX2;ortholog	HOMEOBOX PROTEIN OTX2 (PTHR45793:SF2)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=8615|UniProtKB=P15863	PAX1	Paired box protein Pax-1;PAX1;ortholog	PAIRED BOX PROTEIN PAX-1 (PTHR45636:SF15)		Homo sapiens
+HUMAN|HGNC=8619|UniProtKB=Q02548	PAX5	Paired box protein Pax-5;PAX5;ortholog	PAIRED BOX PROTEIN PAX-5 (PTHR45636:SF20)		Homo sapiens
+HUMAN|HGNC=8620|UniProtKB=P26367	PAX6	Paired box protein Pax-6;PAX6;ortholog	PAIRED BOX PROTEIN PAX-6 (PTHR45636:SF21)		Homo sapiens
+HUMAN|HGNC=8623|UniProtKB=P55771	PAX9	Paired box protein Pax-9;PAX9;ortholog	PAIRED BOX PROTEIN PAX-9 (PTHR45636:SF13)		Homo sapiens
+HUMAN|HGNC=8632|UniProtKB=P40424	PBX1	Pre-B-cell leukemia transcription factor 1;PBX1;ortholog	PRE-B-CELL LEUKEMIA TRANSCRIPTION FACTOR 1 (PTHR11850:SF89)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=8633|UniProtKB=P40425	PBX2	Pre-B-cell leukemia transcription factor 2;PBX2;ortholog	PRE-B-CELL LEUKEMIA TRANSCRIPTION FACTOR 2 (PTHR11850:SF50)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=8634|UniProtKB=P40426	PBX3	Pre-B-cell leukemia transcription factor 3;PBX3;ortholog	PRE-B-CELL LEUKEMIA TRANSCRIPTION FACTOR 3 (PTHR11850:SF97)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=9143|UniProtKB=Q99453	PHOX2B	Paired mesoderm homeobox protein 2B;PHOX2B;ortholog	PAIRED MESODERM HOMEOBOX PROTEIN 2B (PTHR24329:SF301)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=9004|UniProtKB=P78337	PITX1	Pituitary homeobox 1;PITX1;ortholog	PITUITARY HOMEOBOX 1 (PTHR45882:SF1)		Homo sapiens
+HUMAN|HGNC=9045|UniProtKB=Q6DJT9	PLAG1	Zinc finger protein PLAG1;PLAG1;ortholog	ZINC FINGER PROTEIN PLAG1 (PTHR24388:SF69)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=9047|UniProtKB=Q9UPG8	PLAGL2	Zinc finger protein PLAGL2;PLAGL2;ortholog	ZINC FINGER PROTEIN PLAGL2 (PTHR24408:SF20)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=19864|UniProtKB=Q9UKI9	POU2F3	"POU domain, class 2, transcription factor 3;POU2F3;ortholog"	"POU DOMAIN, CLASS 2, TRANSCRIPTION FACTOR 3 (PTHR11636:SF81)"		Homo sapiens
+HUMAN|HGNC=9218|UniProtKB=Q01851	POU4F1	"POU domain, class 4, transcription factor 1;POU4F1;ortholog"	"POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 1 (PTHR11636:SF42)"		Homo sapiens
+HUMAN|HGNC=9219|UniProtKB=Q12837	POU4F2	"POU domain, class 4, transcription factor 2;POU4F2;ortholog"	"POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 2 (PTHR11636:SF41)"		Homo sapiens
+HUMAN|HGNC=9220|UniProtKB=Q15319	POU4F3	"POU domain, class 4, transcription factor 3;POU4F3;ortholog"	"POU DOMAIN, CLASS 4, TRANSCRIPTION FACTOR 3 (PTHR11636:SF43)"		Homo sapiens
+HUMAN|HGNC=9232|UniProtKB=Q07869	PPARA	Peroxisome proliferator-activated receptor alpha;PPARA;ortholog	PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR ALPHA (PTHR24082:SF197)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=9348|UniProtKB=Q9UKN5	PRDM4	PR domain zinc finger protein 4;PRDM4;ortholog	PR DOMAIN ZINC FINGER PROTEIN 4 (PTHR16515:SF2)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=9455|UniProtKB=O75360	PROP1	Homeobox protein prophet of Pit-1;PROP1;ortholog	HOMEOBOX PROTEIN PROPHET OF PIT-1 (PTHR47409:SF1)		Homo sapiens
+HUMAN|HGNC=9142|UniProtKB=P54821	PRRX1	Paired mesoderm homeobox protein 1;PRRX1;ortholog	PAIRED MESODERM HOMEOBOX PROTEIN 1 (PTHR46385:SF1)		Homo sapiens
+HUMAN|HGNC=18662|UniProtKB=Q9Y2V3	RAX	Retinal homeobox protein Rx;RAX;ortholog	RETINAL HOMEOBOX PROTEIN RX (PTHR46271:SF3)		Homo sapiens
+HUMAN|HGNC=18286|UniProtKB=Q96IS3	RAX2	Retina and anterior neural fold homeobox protein 2;RAX2;ortholog	RETINA AND ANTERIOR NEURAL FOLD HOMEOBOX PROTEIN 2 (PTHR46271:SF2)		Homo sapiens
+HUMAN|HGNC=5724|UniProtKB=Q06330	RBPJ	Recombining binding protein suppressor of hairless;RBPJ;ortholog	RECOMBINING BINDING PROTEIN SUPPRESSOR OF HAIRLESS (PTHR10665:SF3)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=9954|UniProtKB=Q04864	REL	Proto-oncogene c-Rel;REL;ortholog	PROTO-ONCOGENE C-REL (PTHR24169:SF4)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=9955|UniProtKB=Q04206	RELA	Transcription factor p65;RELA;ortholog	TRANSCRIPTION FACTOR P65 (PTHR24169:SF1)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=9983|UniProtKB=P48378	RFX2	DNA-binding protein RFX2;RFX2;ortholog	DNA-BINDING PROTEIN RFX2 (PTHR12619:SF17)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=9985|UniProtKB=Q33E94	RFX4	Transcription factor RFX4;RFX4;ortholog	TRANSCRIPTION FACTOR RFX4 (PTHR12619:SF25)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=9986|UniProtKB=P48382	RFX5	DNA-binding protein RFX5;RFX5;ortholog	DNA-BINDING PROTEIN RFX5 (PTHR12619:SF18)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=10259|UniProtKB=Q92753	RORB	Nuclear receptor ROR-beta;RORB;ortholog	NUCLEAR RECEPTOR ROR-BETA (PTHR45805:SF6)		Homo sapiens
+HUMAN|HGNC=10449|UniProtKB=Q92766	RREB1	Ras-responsive element-binding protein 1;RREB1;ortholog	RAS-RESPONSIVE ELEMENT-BINDING PROTEIN 1 (PTHR46451:SF1)		Homo sapiens
+HUMAN|HGNC=10471|UniProtKB=Q01196	RUNX1	Runt-related transcription factor 1;RUNX1;ortholog	RUNT-RELATED TRANSCRIPTION FACTOR 1 (PTHR11950:SF40)	Runt transcription factor(PC00254)	Homo sapiens
+HUMAN|HGNC=10472|UniProtKB=Q13950	RUNX2	Runt-related transcription factor 2;RUNX2;ortholog	RUNT-RELATED TRANSCRIPTION FACTOR 2 (PTHR11950:SF7)	Runt transcription factor(PC00254)	Homo sapiens
+HUMAN|HGNC=10478|UniProtKB=P28702	RXRB	Retinoic acid receptor RXR-beta;RXRB;ortholog	RETINOIC ACID RECEPTOR RXR-BETA (PTHR24083:SF90)	C4 zinc finger nuclear receptor(PC00169)	Homo sapiens
+HUMAN|HGNC=10853|UniProtKB=O15266	SHOX	Short stature homeobox protein;SHOX;ortholog	SHORT STATURE HOMEOBOX PROTEIN (PTHR46255:SF2)		Homo sapiens
+HUMAN|HGNC=10887|UniProtKB=Q15475	SIX1	Homeobox protein SIX1;SIX1;ortholog	HOMEOBOX PROTEIN SIX1 (PTHR10390:SF13)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=10888|UniProtKB=Q9NPC8	SIX2	Homeobox protein SIX2;SIX2;ortholog	HOMEOBOX PROTEIN SIX2 (PTHR10390:SF29)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=6768|UniProtKB=Q15796	SMAD2	Mothers against decapentaplegic homolog 2;SMAD2;ortholog	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 2 (PTHR13703:SF42)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=6769|UniProtKB=P84022	SMAD3	Mothers against decapentaplegic homolog 3;SMAD3;ortholog	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 3 (PTHR13703:SF53)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=6771|UniProtKB=Q99717	SMAD5	Mothers against decapentaplegic homolog 5;SMAD5;ortholog	MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 5 (PTHR13703:SF36)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=26026|UniProtKB=Q9NX45	SOHLH2	Spermatogenesis- and oogenesis-specific basic helix-loop-helix-containing protein 2;SOHLH2;ortholog	SPERMATOGENESIS- AND OOGENESIS-SPECIFIC BASIC HELIX-LOOP-HELIX-CONTAINING PROTEIN 2 (PTHR16223:SF16)		Homo sapiens
+HUMAN|HGNC=11190|UniProtKB=P56693	SOX10	Transcription factor SOX-10;SOX10;ortholog	TRANSCRIPTION FACTOR SOX-10 (PTHR45803:SF6)		Homo sapiens
+HUMAN|HGNC=11198|UniProtKB=O15370	SOX12	Transcription factor SOX-12;SOX12;ortholog	TRANSCRIPTION FACTOR SOX-12 (PTHR10270:SF221)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=11194|UniProtKB=P35713	SOX18	Transcription factor SOX-18;SOX18;ortholog	TRANSCRIPTION FACTOR SOX-18 (PTHR10270:SF204)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=11195|UniProtKB=P48431	SOX2	Transcription factor SOX-2;SOX2;ortholog	TRANSCRIPTION FACTOR SOX-2 (PTHR10270:SF231)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=11197|UniProtKB=Q9Y651	SOX21	Transcription factor SOX-21;SOX21;ortholog	TRANSCRIPTION FACTOR SOX-21 (PTHR10270:SF287)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=11200|UniProtKB=Q06945	SOX4	Transcription factor SOX-4;SOX4;ortholog	TRANSCRIPTION FACTOR SOX-4 (PTHR10270:SF27)	HMG box transcription factor(PC00024)	Homo sapiens
+HUMAN|HGNC=11203|UniProtKB=P57073	SOX8	Transcription factor SOX-8;SOX8;ortholog	TRANSCRIPTION FACTOR SOX-8 (PTHR45803:SF2)		Homo sapiens
+HUMAN|HGNC=11204|UniProtKB=P48436	SOX9	Transcription factor SOX-9;SOX9;ortholog	TRANSCRIPTION FACTOR SOX-9 (PTHR45803:SF1)		Homo sapiens
+HUMAN|HGNC=11205|UniProtKB=P08047	SP1	Transcription factor Sp1;SP1;ortholog	TRANSCRIPTION FACTOR SP1 (PTHR23235:SF16)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=11241|UniProtKB=P17947	SPI1	Transcription factor PU.1;SPI1;ortholog	TRANSCRIPTION FACTOR PU.1 (PTHR11849:SF16)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=11242|UniProtKB=Q01892	SPIB	Transcription factor Spi-B;SPIB;ortholog	TRANSCRIPTION FACTOR SPI-B (PTHR11849:SF174)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=29549|UniProtKB=Q8N5J4	SPIC	Transcription factor Spi-C;SPIC;ortholog	TRANSCRIPTION FACTOR SPI-C (PTHR11849:SF17)	winged helix/forkhead transcription factor(PC00246)	Homo sapiens
+HUMAN|HGNC=11289|UniProtKB=P36956	SREBF1	Sterol regulatory element-binding protein 1;SREBF1;ortholog	STEROL REGULATORY ELEMENT-BINDING PROTEIN 1 (PTHR46062:SF2)		Homo sapiens
+HUMAN|HGNC=11291|UniProtKB=P11831	SRF	Serum response factor;SRF;ortholog	SERUM RESPONSE FACTOR (PTHR48019:SF40)		Homo sapiens
+HUMAN|HGNC=11362|UniProtKB=P42224	STAT1	Signal transducer and activator of transcription 1-alpha/beta;STAT1;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 1-ALPHA/BETA (PTHR11801:SF18)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11363|UniProtKB=P52630	STAT2	Signal transducer and activator of transcription 2;STAT2;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 2 (PTHR11801:SF41)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11364|UniProtKB=P40763	STAT3	Signal transducer and activator of transcription 3;STAT3;ortholog	SIGNAL TRANSDUCER AND ACTIVATOR OF TRANSCRIPTION 3 (PTHR11801:SF2)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11596|UniProtKB=O60806	TBX19	T-box transcription factor TBX19;TBX19;ortholog	T-BOX TRANSCRIPTION FACTOR TBX19 (PTHR11267:SF114)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=11598|UniProtKB=Q9UMR3	TBX20	T-box transcription factor TBX20;TBX20;ortholog	T-BOX TRANSCRIPTION FACTOR TBX20 (PTHR11267:SF129)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=11604|UniProtKB=Q99593	TBX5	T-box transcription factor TBX5;TBX5;ortholog	T-BOX TRANSCRIPTION FACTOR TBX5 (PTHR11267:SF28)	Rel homology transcription factor(PC00252)	Homo sapiens
+HUMAN|HGNC=11623|UniProtKB=Q99081	TCF12	Transcription factor 12;TCF12;ortholog	TRANSCRIPTION FACTOR 12 (PTHR11793:SF11)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11632|UniProtKB=O43680	TCF21	Transcription factor 21;TCF21;ortholog	TRANSCRIPTION FACTOR 21 (PTHR23349:SF67)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11633|UniProtKB=P15923	TCF3	Transcription factor E2-alpha;TCF3;ortholog	TRANSCRIPTION FACTOR E2-ALPHA (PTHR11793:SF7)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11634|UniProtKB=P15884	TCF4	Transcription factor 4;TCF4;ortholog	TRANSCRIPTION FACTOR 4 (PTHR11793:SF10)	basic helix-loop-helix transcription factor(PC00055)	Homo sapiens
+HUMAN|HGNC=11714|UniProtKB=P28347	TEAD1	Transcriptional enhancer factor TEF-1;TEAD1;ortholog	TRANSCRIPTIONAL ENHANCER FACTOR TEF-1 (PTHR11834:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11715|UniProtKB=Q15562	TEAD2	Transcriptional enhancer factor TEF-4;TEAD2;ortholog	TRANSCRIPTIONAL ENHANCER FACTOR TEF-4 (PTHR11834:SF5)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11716|UniProtKB=Q99594	TEAD3	Transcriptional enhancer factor TEF-5;TEAD3;ortholog	TRANSCRIPTIONAL ENHANCER FACTOR TEF-5 (PTHR11834:SF7)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11717|UniProtKB=Q15561	TEAD4	Transcriptional enhancer factor TEF-3;TEAD4;ortholog	TRANSCRIPTIONAL ENHANCER FACTOR TEF-3 (PTHR11834:SF2)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11742|UniProtKB=P05549	TFAP2A	Transcription factor AP-2-alpha;TFAP2A;ortholog	TRANSCRIPTION FACTOR AP-2-ALPHA (PTHR10812:SF8)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=11743|UniProtKB=Q92481	TFAP2B	Transcription factor AP-2-beta;TFAP2B;ortholog	TRANSCRIPTION FACTOR AP-2-BETA (PTHR10812:SF14)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=11744|UniProtKB=Q92754	TFAP2C	Transcription factor AP-2 gamma;TFAP2C;ortholog	TRANSCRIPTION FACTOR AP-2 GAMMA (PTHR10812:SF9)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=30774|UniProtKB=Q6VUC0	TFAP2E	Transcription factor AP-2-epsilon;TFAP2E;ortholog	TRANSCRIPTION FACTOR AP-2-EPSILON (PTHR10812:SF13)	general transcription factor(PC00259)	Homo sapiens
+HUMAN|HGNC=11745|UniProtKB=Q01664	TFAP4	Transcription factor AP-4;TFAP4;ortholog	TRANSCRIPTION FACTOR AP-4 (PTHR15741:SF27)		Homo sapiens
+HUMAN|HGNC=11748|UniProtKB=Q12800	TFCP2	Alpha-globin transcription factor CP2;TFCP2;ortholog	ALPHA-GLOBIN TRANSCRIPTION FACTOR CP2 (PTHR11037:SF11)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11749|UniProtKB=Q14186	TFDP1	Transcription factor Dp-1;TFDP1;ortholog	TRANSCRIPTION FACTOR DP-1 (PTHR12548:SF4)	DNA-binding transcription factor(PC00218)	Homo sapiens
+HUMAN|HGNC=11752|UniProtKB=P19532	TFE3	Transcription factor E3;TFE3;ortholog	TRANSCRIPTION FACTOR E3 (PTHR45776:SF3)		Homo sapiens
+HUMAN|HGNC=11754|UniProtKB=O14948	TFEC	Transcription factor EC;TFEC;ortholog	TRANSCRIPTION FACTOR EC (PTHR45776:SF1)		Homo sapiens
+HUMAN|HGNC=5056|UniProtKB=P31314	TLX1	T-cell leukemia homeobox protein 1;TLX1;ortholog	T-CELL LEUKEMIA HOMEOBOX PROTEIN 1 (PTHR45921:SF2)		Homo sapiens
+HUMAN|HGNC=5057|UniProtKB=O43763	TLX2	T-cell leukemia homeobox protein 2;TLX2;ortholog	T-CELL LEUKEMIA HOMEOBOX PROTEIN 2 (PTHR45921:SF3)		Homo sapiens
+HUMAN|HGNC=11998|UniProtKB=P04637	TP53	Cellular tumor antigen p53;TP53;ortholog	CELLULAR TUMOR ANTIGEN P53 (PTHR11447:SF6)	P53-like transcription factor(PC00253)	Homo sapiens
+HUMAN|HGNC=15979|UniProtKB=Q9H3D4	TP63	Tumor protein 63;TP63;ortholog	TUMOR PROTEIN 63 (PTHR11447:SF8)	P53-like transcription factor(PC00253)	Homo sapiens
+HUMAN|HGNC=12003|UniProtKB=O15350	TP73	Tumor protein p73;TP73;ortholog	TUMOR PROTEIN P73 (PTHR11447:SF21)	P53-like transcription factor(PC00253)	Homo sapiens
+HUMAN|HGNC=13639|UniProtKB=O95231	VENTX	Homeobox protein VENTX;VENTX;ortholog	HOMEOBOX PROTEIN VENTX (PTHR24327:SF29)	homeodomain transcription factor(PC00119)	Homo sapiens
+HUMAN|HGNC=12949|UniProtKB=Q14119	VEZF1	Vascular endothelial zinc finger 1;VEZF1;ortholog	VASCULAR ENDOTHELIAL ZINC FINGER 1 (PTHR24379:SF75)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=31684|UniProtKB=O15391	YY2	Transcription factor YY2;YY2;ortholog	TRANSCRIPTION FACTOR YY2-RELATED (PTHR14003:SF10)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=447|UniProtKB=O96006	ZBED1	Zinc finger BED domain-containing protein 1;ZBED1;ortholog	ZINC FINGER BED DOMAIN-CONTAINING PROTEIN 1 (PTHR46169:SF2)		Homo sapiens
+HUMAN|HGNC=18668|UniProtKB=O15156	ZBTB7B	Zinc finger and BTB domain-containing protein 7B;ZBTB7B;ortholog	ZINC FINGER AND BTB DOMAIN-CONTAINING PROTEIN 7B (PTHR46105:SF4)		Homo sapiens
+HUMAN|HGNC=12872|UniProtKB=Q15915	ZIC1	Zinc finger protein ZIC 1;ZIC1;ortholog	ZINC FINGER PROTEIN ZIC 1 (PTHR19818:SF141)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=12874|UniProtKB=O60481	ZIC3	Zinc finger protein ZIC 3;ZIC3;ortholog	ZINC FINGER PROTEIN ZIC 3 (PTHR19818:SF25)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=12928|UniProtKB=P52747	ZNF143	Zinc finger protein 143;ZNF143;ortholog	ZINC FINGER PROTEIN 143 (PTHR24388:SF55)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=13032|UniProtKB=P17028	ZNF24	Zinc finger protein 24;ZNF24;ortholog	ZINC FINGER PROTEIN 24 (PTHR23226:SF127)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=15992|UniProtKB=Q9BYN7	ZNF341	Zinc finger protein 341;ZNF341;ortholog	ZINC FINGER PROTEIN 341 (PTHR24388:SF28)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
+HUMAN|HGNC=11955|UniProtKB=Q8TF68	ZNF384	Zinc finger protein 384;ZNF384;ortholog	ZINC FINGER PROTEIN 384 (PTHR24376:SF130)	C2H2 zinc finger transcription factor(PC00248)	Homo sapiens
